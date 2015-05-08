@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="MessageControlDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MessageControlDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,35,0,28">
+            <TextBlock Text="我的应用程序" FontSize="20"  />
+            <TextBlock Text="页面名称" FontSize="60" />
+        </StackPanel>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Button x:ConnectionId='1' Content="弹窗" HorizontalAlignment="Left" Margin="115,231,0,0" VerticalAlignment="Top" Width="213"                       />
+        </Grid>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Label="Refresh" Icon="Refresh" />
+            <AppBarButton Label="Help" Icon="Help"/>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="Edit" Icon="Edit" />
+                <AppBarButton Label="Remove" Icon="Remove" />
+                <AppBarButton Label="Add" Icon="Add"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

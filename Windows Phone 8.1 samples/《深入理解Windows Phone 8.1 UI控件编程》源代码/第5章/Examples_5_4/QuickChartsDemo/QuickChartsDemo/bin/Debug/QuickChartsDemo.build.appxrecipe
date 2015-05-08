@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZHENGLIN-PC</Machine>
+    <WindowsUser>zhenglin</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>89a8f70b-35c0-49bb-b2d5-eec676b25f55</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.exe">
+      <PackagePath>QuickChartsDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\QuickChartsWP.dll">
+      <PackagePath>QuickChartsWP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\PieChart.xbf">
+      <PackagePath>PieChart.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\SerialChart.xbf">
+      <PackagePath>SerialChart.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\AreaGraph.xbf">
+      <PackagePath>QuickChartsWP\Themes\AreaGraph.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\Balloon.xbf">
+      <PackagePath>QuickChartsWP\Themes\Balloon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\CategoryAxis.xbf">
+      <PackagePath>QuickChartsWP\Themes\CategoryAxis.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\ColumnGraph.xbf">
+      <PackagePath>QuickChartsWP\Themes\ColumnGraph.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\Generic.xbf">
+      <PackagePath>QuickChartsWP\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\Indicator.xbf">
+      <PackagePath>QuickChartsWP\Themes\Indicator.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\Legend.xbf">
+      <PackagePath>QuickChartsWP\Themes\Legend.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\LineGraph.xbf">
+      <PackagePath>QuickChartsWP\Themes\LineGraph.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\PieChart.xbf">
+      <PackagePath>QuickChartsWP\Themes\PieChart.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\SerialChart.xbf">
+      <PackagePath>QuickChartsWP\Themes\SerialChart.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\Slice.xbf">
+      <PackagePath>QuickChartsWP\Themes\Slice.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\ValueAxis.xbf">
+      <PackagePath>QuickChartsWP\Themes\ValueAxis.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\Themes\ValueGrid.xbf">
+      <PackagePath>QuickChartsWP\Themes\ValueGrid.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.xr.xml">
+      <PackagePath>QuickChartsDemo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\bin\Release\QuickChartsWP.xr.xml">
+      <PackagePath>QuickChartsWP\QuickChartsWP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

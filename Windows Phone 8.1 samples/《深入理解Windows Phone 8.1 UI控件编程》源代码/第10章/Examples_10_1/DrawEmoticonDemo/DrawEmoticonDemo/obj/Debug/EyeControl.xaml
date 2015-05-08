@@ -1,0 +1,21 @@
+﻿<UserControl
+    x:Class="DrawEmoticonDemo.EyeControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrawEmoticonDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="95"
+    d:DesignWidth="95">
+
+    <Grid x:Name="LayoutRoot">
+        <Ellipse HorizontalAlignment="Left" Fill="#FFECEDF3"  Height="95" Stroke="#FF0B0C0B" VerticalAlignment="Top" Width="95" RenderTransformOrigin="0.611,0.722">
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Fill="#FF87441D" Height="55" Margin="20,20,0,0" Stroke="#FF0B0C0B" VerticalAlignment="Top" Width="55" RenderTransformOrigin="-0.375,-0.571">
+        </Ellipse>
+        <Ellipse HorizontalAlignment="Left" Height="25" Margin="20,35,0,0" Stroke="#FF0B0C0B" VerticalAlignment="Top" Width="25" RenderTransformOrigin="1.25,1.25" StrokeThickness="0" Fill="#FFFBF9F9"/>
+
+    </Grid>
+</UserControl>
+

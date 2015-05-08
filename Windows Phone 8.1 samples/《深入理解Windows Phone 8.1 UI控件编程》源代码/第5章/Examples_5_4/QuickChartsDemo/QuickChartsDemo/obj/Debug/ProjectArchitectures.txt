@@ -1,0 +1,2 @@
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\QuickChartsDemo.csproj;neutral
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsWP\QuickChartsWP.csproj;neutral

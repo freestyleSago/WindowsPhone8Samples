@@ -1,0 +1,1 @@
+C:\Users\Sago\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\Calendar details and math sample\C#\WindowsPhone\CalendarSample.WindowsPhone.csproj;neutral

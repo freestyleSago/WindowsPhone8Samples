@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="AnimationUITestDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AnimationUITestDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <Storyboard x:Name="heightStoryboard">
+            <DoubleAnimation Storyboard.TargetName="rectangle1" Storyboard.TargetProperty="Height" RepeatBehavior="Forever"
+                             EnableDependentAnimation="True"
+                             From="100"
+                             To="200"
+                             Duration="0:0:2">
+            </DoubleAnimation>
+        </Storyboard>
+        <Storyboard x:Name="scaleTransformStoryboard">
+            <DoubleAnimation Storyboard.TargetName="scaleTransform1" Storyboard.TargetProperty="ScaleY"  RepeatBehavior="Forever"
+                             From="1"
+                             To="2"
+                             Duration="0:0:2">
+            </DoubleAnimation>
+        </Storyboard>
+    </Page.Resources>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,35,0,28">
+            <TextBlock Text="我的应用程序" FontSize="20"  />
+            <TextBlock Text="动画线程" FontSize="60" />
+        </StackPanel>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <StackPanel>
+                <Button Content="阻塞UI线程" Click="Button_Click_1"></Button>
+                <Button x:Name="heightAnimationButton" Content="Height属性动画"  Click="heightAnimationButton_Click_1"></Button>
+                <Button x:Name="scaleTransformAnimationButton" Content="ScaleTransform属性动画"  Click="scaleTransformAnimationButton_Click_1"></Button>
+                <Rectangle Height="100" Fill="Blue" x:Name="rectangle1">
+                    <Rectangle.RenderTransform>
+                        <ScaleTransform x:Name="scaleTransform1" ></ScaleTransform>
+                    </Rectangle.RenderTransform>
+                </Rectangle>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

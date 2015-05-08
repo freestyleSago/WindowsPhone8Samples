@@ -1,0 +1,2 @@
+C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControl\MessageControl.csproj;neutral
+C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\MessageControlDemo.csproj;neutral

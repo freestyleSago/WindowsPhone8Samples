@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZHENGLIN-PC</Machine>
+    <WindowsUser>zhenglin</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7c7d0f34-fba6-4814-aad4-3d3b8fddb0f0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\bin\Debug\MessageControlDemo.exe">
+      <PackagePath>MessageControlDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControl\bin\Debug\MessageControl.dll">
+      <PackagePath>MessageControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\bin\Debug\MyUserControl1.xbf">
+      <PackagePath>MyUserControl1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControl\bin\Debug\Themes\Generic.xbf">
+      <PackagePath>MessageControl\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\bin\Debug\MessageControlDemo.xr.xml">
+      <PackagePath>MessageControlDemo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControl\bin\Debug\MessageControl.xr.xml">
+      <PackagePath>MessageControl\MessageControl.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第1章\Examples_1_5\MessageControlDemo\MessageControlDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

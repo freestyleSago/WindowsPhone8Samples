@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZHENGLIN-PC</Machine>
+    <WindowsUser>zhenglin</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>25455a35-af0d-486d-847a-54261a0fbe34</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\bin\Debug\MeasureArrangeDemo.exe">
+      <PackagePath>MeasureArrangeDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\bin\Debug\MeasureArrangeDemo.xr.xml">
+      <PackagePath>MeasureArrangeDemo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zhenglin\Desktop\源代码20140508\第3章\Examples_3_1\MeasureArrangeDemo\MeasureArrangeDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

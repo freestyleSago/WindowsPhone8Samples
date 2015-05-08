@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="Data" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Content" />
+      <RootEvent Name="Loaded" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Margin" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Text" />
+      <RootProperty Name="FontSize" />
+    </RootType>
+    <RootType FullName="QuickChartsDemo.MainPage" />
+    <RootType FullName="AmCharts.Windows.QuickCharts.PieChart">
+      <RootProperty Name="TitleMemberPath" />
+      <RootProperty Name="ValueMemberPath" />
+    </RootType>
+    <RootType FullName="QuickChartsDemo.PieChart" />
+    <RootType FullName="AmCharts.Windows.QuickCharts.SerialChart">
+      <RootProperty Name="DataSource" />
+      <RootProperty Name="CategoryValueMemberPath" />
+      <RootProperty Name="AxisForeground" />
+      <RootProperty Name="PlotAreaBackground" />
+      <RootProperty Name="GridStroke" />
+      <RootProperty Name="Graphs" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding" />
+    <RootType FullName="AmCharts.Windows.QuickCharts.LineGraph">
+      <RootProperty Name="ValueMemberPath" />
+      <RootProperty Name="Title" />
+      <RootProperty Name="Brush" />
+    </RootType>
+    <RootType FullName="AmCharts.Windows.QuickCharts.ColumnGraph">
+      <RootProperty Name="ValueMemberPath" />
+      <RootProperty Name="Title" />
+      <RootProperty Name="Brush" />
+      <RootProperty Name="ColumnWidthAllocation" />
+    </RootType>
+    <RootType FullName="AmCharts.Windows.QuickCharts.AreaGraph">
+      <RootProperty Name="ValueMemberPath" />
+      <RootProperty Name="Title" />
+      <RootProperty Name="Brush" />
+    </RootType>
+    <RootType FullName="QuickChartsDemo.SerialChart" />
+  </Roots.RootTypes>
+</Roots>

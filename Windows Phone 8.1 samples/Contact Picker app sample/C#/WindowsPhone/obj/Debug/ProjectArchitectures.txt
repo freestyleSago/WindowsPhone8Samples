@@ -1,0 +1,1 @@
+C:\Users\Sago\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\Contact Picker app sample\C#\WindowsPhone\ContactPicker.WindowsPhone.csproj;neutral

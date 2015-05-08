@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="ListAnimations.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ListAnimations"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:phone="using:Windows.UI.Xaml.Controls"
+    Loaded="PhoneApplicationPage_Loaded_1"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,35,0,0">
+            <TextBlock Text="列表动画" FontSize="20"  />
+        </StackPanel>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <phone:Pivot x:Name="pivot">
+                <phone:PivotItem Header="列表1">
+                    <ListBox x:Name="listBox1" local:ListAnimationsHelper.IsPivotAnimated="True" >
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock Text="{Binding Title}" FontSize="40"/>
+                                    <TextBlock Text="{Binding Text1}" FontSize="20"
+                                               local:ListAnimationsHelper.AnimationLevel="1"/>
+                                    <TextBlock Text="{Binding Text2}" FontSize="20"
+                                               local:ListAnimationsHelper.AnimationLevel="2"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </phone:PivotItem>
+
+                <phone:PivotItem Header="列表2">
+                    <ItemsControl x:Name="listBox2" local:ListAnimationsHelper.IsPivotAnimated="True">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <VirtualizingStackPanel/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock Text="{Binding Title}" FontSize="40" />
+                                    <TextBlock Text="{Binding Text1}" FontSize="20"
+                                               local:ListAnimationsHelper.AnimationLevel="1"/>
+                                    <TextBlock Text="{Binding Text2}" FontSize="20"
+                                               local:ListAnimationsHelper.AnimationLevel="2"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                        <ItemsControl.Template>
+                            <ControlTemplate>
+                                <ScrollViewer>
+                                    <ItemsPresenter/>
+                                </ScrollViewer>
+                            </ControlTemplate>
+                        </ItemsControl.Template>
+                    </ItemsControl>
+                </phone:PivotItem>
+            </phone:Pivot>
+        </Grid>
+    </Grid>
+</Page>

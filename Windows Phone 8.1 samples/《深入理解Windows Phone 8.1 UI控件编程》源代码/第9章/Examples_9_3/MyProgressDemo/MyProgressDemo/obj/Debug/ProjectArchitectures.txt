@@ -1,0 +1,2 @@
+C:\Users\zhenglin\Desktop\源代码20140508\第9章\Examples_9_3\MyProgressDemo\MyProgress\MyProgress.csproj;neutral
+C:\Users\zhenglin\Desktop\源代码20140508\第9章\Examples_9_3\MyProgressDemo\MyProgressDemo\MyProgressDemo.csproj;neutral

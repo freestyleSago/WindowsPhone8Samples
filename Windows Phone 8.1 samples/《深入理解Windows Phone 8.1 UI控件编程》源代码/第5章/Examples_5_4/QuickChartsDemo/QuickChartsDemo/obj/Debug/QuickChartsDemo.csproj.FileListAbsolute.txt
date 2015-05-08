@@ -1,0 +1,140 @@
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\App.xbf
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\MainPage.xbf
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\PieChart.xbf
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\SerialChart.xbf
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.exe
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.pdb
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\resources.pri
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\AppxManifest.xml
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.build.appxrecipe
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.dll
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.pdb
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.pri
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.csprojResolveAssemblyReference.cache
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.g.i.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.g.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.g.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.g.i.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.g.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.g.i.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.g.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.xaml
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.xbf
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.xaml
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.xaml
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.xaml
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.xbf
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.xbf
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.xbf
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.exe
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.pdb
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.csproj.GenerateResource.Cache
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\priconfig.xml
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\priconfig.xml.intermediate
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\layout.resfiles
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\layout.resfiles.intermediate
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\resources.resfiles
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\resources.resfiles.intermediate
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\pri.resfiles
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\pri.resfiles.intermediate
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\qualifiers.txt
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\zhenglin\Desktop\QuickChartsDemo\QuickChartsDemo\obj\Debug\ProjectArchitectures.txt
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\App.xbf
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\MainPage.xbf
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\PieChart.xbf
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\SerialChart.xbf
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.xr.xml
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.exe
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.pdb
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\resources.pri
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\AppxManifest.xml
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.build.appxrecipe
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.dll
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.pdb
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.pri
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.csprojResolveAssemblyReference.cache
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.g.i.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.g.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.g.i.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.g.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.g.i.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.g.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.g.i.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.g.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\XamlTypeInfo.g.cs
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.xaml
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.xaml
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.xaml
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.xaml
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.xbf
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.xbf
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.xbf
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.xbf
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\XamlSaveStateFile.xml
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.exe
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.pdb
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.csproj.GenerateResource.Cache
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\priconfig.xml
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\priconfig.xml.intermediate
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\layout.resfiles
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\layout.resfiles.intermediate
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\resources.resfiles
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\resources.resfiles.intermediate
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\pri.resfiles
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\pri.resfiles.intermediate
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\qualifiers.txt
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\qualifiers.txt.intermediate
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\wp8深入解析\《深入理解：Windows Phone 8 UI控件编程》\深入理解 Windows Phone 8.1 UI控件编程\源代码\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\ProjectArchitectures.txt
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\App.xbf
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\MainPage.xbf
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\PieChart.xbf
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\SerialChart.xbf
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.xr.xml
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.exe
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.pdb
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\resources.pri
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\AppxManifest.xml
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsDemo.build.appxrecipe
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.dll
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.pdb
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\bin\Debug\QuickChartsWP.pri
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.csprojResolveAssemblyReference.cache
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.g.i.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.g.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.g.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.g.i.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.g.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.g.i.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.g.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.xaml
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.xaml
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.xaml
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.xaml
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\App.xbf
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MainPage.xbf
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\PieChart.xbf
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\SerialChart.xbf
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.exe
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.pdb
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\QuickChartsDemo.csproj.GenerateResource.Cache
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\priconfig.xml
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\priconfig.xml.intermediate
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\layout.resfiles
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\layout.resfiles.intermediate
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\resources.resfiles
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\resources.resfiles.intermediate
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\pri.resfiles
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\pri.resfiles.intermediate
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\qualifiers.txt
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\zhenglin\Desktop\源代码20140508\第5章\Examples_5_4\QuickChartsDemo\QuickChartsDemo\obj\Debug\ProjectArchitectures.txt
