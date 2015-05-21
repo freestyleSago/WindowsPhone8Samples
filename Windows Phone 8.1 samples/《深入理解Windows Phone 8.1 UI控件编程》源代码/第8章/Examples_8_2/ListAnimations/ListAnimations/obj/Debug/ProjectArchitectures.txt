@@ -1,1 +1,1 @@
-C:\Users\zhenglin\Desktop\源代码20140508\第8章\Examples_8_2\ListAnimations\ListAnimations\ListAnimations.csproj;neutral
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_2\ListAnimations\ListAnimations\ListAnimations.csproj;neutral

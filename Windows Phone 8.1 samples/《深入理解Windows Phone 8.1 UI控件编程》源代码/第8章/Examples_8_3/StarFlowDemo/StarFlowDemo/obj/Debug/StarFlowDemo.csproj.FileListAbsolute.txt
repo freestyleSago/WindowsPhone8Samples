@@ -61,3 +61,35 @@ C:\Users\zhenglin\Desktop\源代码20140508\第8章\Examples_8_3\StarFlowDemo\St
 C:\Users\zhenglin\Desktop\源代码20140508\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\qualifiers.txt.intermediate
 C:\Users\zhenglin\Desktop\源代码20140508\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\zhenglin\Desktop\源代码20140508\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\ProjectArchitectures.txt
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\bin\Debug\App.xbf
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\bin\Debug\MainPage.xbf
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\bin\Debug\StarFlowDemo.xr.xml
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\bin\Debug\StarFlowDemo.exe
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\bin\Debug\StarFlowDemo.pdb
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\bin\Debug\resources.pri
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\bin\Debug\AppxManifest.xml
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\bin\Debug\StarFlowDemo.build.appxrecipe
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\App.g.i.cs
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\App.g.cs
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\MainPage.g.cs
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\App.xaml
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\MainPage.xaml
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\App.xbf
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\MainPage.xbf
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\XamlSaveStateFile.xml
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\StarFlowDemo.exe
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\StarFlowDemo.pdb
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\priconfig.xml
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\priconfig.xml.intermediate
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\layout.resfiles
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\layout.resfiles.intermediate
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\resources.resfiles
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\resources.resfiles.intermediate
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\pri.resfiles
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\pri.resfiles.intermediate
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\qualifiers.txt
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\frees_000\Source\Repos\WindowsPhone8Samples\Windows Phone 8.1 samples\《深入理解Windows Phone 8.1 UI控件编程》源代码\第8章\Examples_8_3\StarFlowDemo\StarFlowDemo\obj\Debug\ProjectArchitectures.txt

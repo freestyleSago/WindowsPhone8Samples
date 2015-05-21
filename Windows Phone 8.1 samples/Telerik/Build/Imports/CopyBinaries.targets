@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="CopyBinaries" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+
+    <PropertyGroup>
+        <BuildDependsOn>
+            $(BuildDependsOn);
+            CopyBinaries;
+        </BuildDependsOn>
+    </PropertyGroup>
+
+
+    <Target Name="CopyBinaries">
+
+        <PropertyGroup>
+            <PlatformSubFolder Condition=" '$(Platform)' != 'AnyCPU' ">$(Platform)\</PlatformSubFolder>
+            <TargetPlatformSubFolder Condition=" '$(PlatformSubFolder)' == 'Win32\' ">x86\</TargetPlatformSubFolder>
+            <TargetPlatformSubFolder Condition=" '$(PlatformSubFolder)' != 'Win32\' ">$(PlatformSubFolder)</TargetPlatformSubFolder>
+            <BinariesSourceFolder>$(MSBuildProjectDirectory)\bin\$(PlatformSubFolder)$(Configuration)</BinariesSourceFolder>
+            <BinariesDestinationFolder>$(BinariesDirectory)\$(Framework)\$(TargetPlatformSubFolder)</BinariesDestinationFolder>
+        </PropertyGroup>
+
+        <ItemGroup>
+            <Binaries Condition=" '$(ControlName)' == '' "
+                      Include="$(BinariesSourceFolder)\**\*"
+                      Exclude="$(BinariesSourceFolder)\**\*.tmp;$(BinariesSourceFolder)\**\*CodeAnalysisLog.xml;$(BinariesSourceFolder)\**\*.lastcodeanalysissucceeded" />
+            <Binaries Condition=" '$(ControlName)' != '' "
+                      Include="$(BinariesSourceFolder)\**\*$(ControlName)*;$(BinariesSourceFolder)\**\*.xaml;$(BinariesSourceFolder)\**\*.xbf"
+                      Exclude="$(BinariesSourceFolder)\**\*.tmp;$(BinariesSourceFolder)\**\*CodeAnalysisLog.xml;$(BinariesSourceFolder)\**\*.lastcodeanalysissucceeded" />
+        </ItemGroup>
+
+        <Message Text="DEBUG INFO: CopyBinaries from: &quot;$(BinariesSourceFolder)&quot; Configuration=$(Configuration) to: &quot;$(BinariesDestinationFolder)&quot;" />
+
+        <Copy SourceFiles="@(Binaries)"
+              DestinationFolder="$(BinariesDestinationFolder)\%(RecursiveDir)" />
+
+    </Target>
+
+</Project>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="GenerateAssemblyInfo" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+    <Import Project="Config.proj" />
+
+    <!-- Plug assembly info generation right before the compiler runs -->
+    <PropertyGroup>
+        <CoreCompileDependsOn>
+            $(CoreCompileDependsOn);
+            GenerateAssemblyInfo;
+        </CoreCompileDependsOn>
+
+        <CleanDependsOn>
+            $(CleanDependsOn);
+            CleanAssemblyInfo;
+        </CleanDependsOn>
+    </PropertyGroup>
+
+    <!-- Import targets for that defines assemblyInfo build file task-->
+    <Import Project="..\Tools\MSBuildCommunityTasks\MSBuild.Community.Tasks.Targets" />
+
+    <!--Import targets for generating version number-->
+
+    <PropertyGroup>
+        <VersionAssemblyInfoFileName Condition=" '$(OutputFileName)' == '' ">VersionAssemblyInfo.cs</VersionAssemblyInfoFileName>
+    </PropertyGroup>
+
+
+    <Target Name="GenerateAssemblyInfo"
+            Inputs="@(Compile);@(Page);@(Resource)"
+            Outputs="$(VersionAssemblyInfoFileName)" >
+
+        <Message Text="DEBUG INFO: VersionString=$(VersionString)" />
+
+        <AssemblyInfo CodeLanguage="CS"
+                      OutputFile="$(VersionAssemblyInfoFileName)"
+                      AssemblyVersion="$(VersionString)"
+                      AssemblyFileVersion="$(VersionString)"
+                      AssemblyCopyright="$(CopyrightString)"
+                      AssemblyCompany="$(CompanyName)" />
+
+        <CreateItem Include="$(VersionAssemblyInfoFileName)">
+            <Output TaskParameter="Include" ItemName="Compile" />
+        </CreateItem>
+
+    </Target>
+
+
+    <Target Name="CleanAssemblyInfo">
+
+        <Message Text="DEBUG INFO: Cleaning version info file" />
+        <ItemGroup>
+            <AssemblyInfoFile Include="$(VersionAssemblyInfoFileName)" />
+        </ItemGroup>
+
+        <Delete Files="@(AssemblyInfoFile)" ContinueOnError="true" />
+
+    </Target>
+
+</Project>

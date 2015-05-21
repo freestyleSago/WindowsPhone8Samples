@@ -1,0 +1,16 @@
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\bin\Debug\Telerik.Core.dll
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\bin\Debug\Telerik.Core.pdb
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\bin\Debug\Telerik.Core.pri
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\Telerik.Core.dll
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\Telerik.Core.pdb
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\frees_000\Desktop\Telerik\Controls\Core\Core.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt

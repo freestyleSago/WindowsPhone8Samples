@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="CopyVSIX" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0" >
+
+    <PropertyGroup>
+        <BuildDependsOn>
+            $(BuildDependsOn);
+            CopyVSIX;
+        </BuildDependsOn>
+    </PropertyGroup>
+
+
+    <Target Name="CopyVSIX" >
+
+        <PropertyGroup>
+            <PlatformSubFolder Condition=" '$(Platform)' != 'AnyCPU' ">$(Platform)\</PlatformSubFolder>
+            <VSIXSourceFolder>$(MSBuildProjectDirectory)\bin\$(PlatformSubFolder)$(Configuration)</VSIXSourceFolder>
+            <VSIXDestinationFolder>$(BinariesDirectory)\VSIX</VSIXDestinationFolder>
+        </PropertyGroup>
+
+        <ItemGroup>
+            <VSIX Include="$(VSIXSourceFolder)\**\*.vsix" />
+        </ItemGroup>
+
+        <Message Text="DEBUG INFO: CopyVSIX from: &quot;$(VSIXSourceFolder)&quot; Configuration=$(Configuration) to: &quot;$(VSIXDestinationFolder)&quot;" />
+
+        <Copy SourceFiles="@(VSIX)"
+              DestinationFolder="$(VSIXDestinationFolder)%(RecursiveDir)" />
+
+    </Target>
+
+</Project>

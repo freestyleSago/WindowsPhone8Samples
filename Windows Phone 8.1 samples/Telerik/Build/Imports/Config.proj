@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+
+    <PropertyGroup>
+        <!-- Version string properties -->
+        <VersionYear Condition=" '$(VersionYear)' == '' ">2014</VersionYear>
+        <VersionReleaseNumber Condition=" '$(VersionReleaseNumber)' == '' ">3</VersionReleaseNumber>
+        <VersionServicePackNumber Condition=" '$(VersionServicePackNumber)' == '' "></VersionServicePackNumber>
+        <ProductName>UI for Windows Universal</ProductName>
+        <ShortCompanyName>Telerik</ShortCompanyName>
+        <CompanyName>Telerik AD</CompanyName>
+        <CopyrightString>Copyright %A9 2014-2014 Telerik AD</CopyrightString>
+        <FileNameSuffix>Telerik_UI_for_WindowsUniversal</FileNameSuffix>
+
+        <!-- Output directories -->
+        <BranchName Condition=" '$(BranchName)' == '' ">Current</BranchName>
+        <OutputPathBase Condition=" '$(OutputPathBase)' == '' ">\\telerik.com\resources\Controls\DISTRIBUTIONS\WindowsUniversal\BUILDS\LATEST\$(BranchName)</OutputPathBase>
+        <OutputPath>$(OutputPathBase)\WinUniversal</OutputPath>
+        <BinariesOutputPath>$(OutputPathBase)\Binaries</BinariesOutputPath>
+        <SourceCodeOutputPath>$(OutputPathBase)\SourceCode</SourceCodeOutputPath>
+
+        <!-- Directories -->
+        <SourcesRootDirectory>$(MSBuildProjectDirectory)\..</SourcesRootDirectory>
+        <BinariesRootDirectory>$(SourcesRootDirectory)\Binaries</BinariesRootDirectory>
+        <DeployDirectory>$(SourcesRootDirectory)\DeployDirectory</DeployDirectory>
+        <LocalBuildOutputDirectory>$(SourcesRootDirectory)\Output</LocalBuildOutputDirectory>
+        <LicenseAgreementFilePath>$(MSBuildProjectDirectory)\LicenseAgreements\EULA.rtf</LicenseAgreementFilePath>
+        <QSFDirectory>$(SourcesRootDirectory)\QSF</QSFDirectory>
+        <QSFWorkingDirectory>$(SourcesRootDirectory)\QSFWorkingDir</QSFWorkingDirectory>
+        <DevRelativeDirectory>Dev</DevRelativeDirectory>
+        <TrialRelativeDirectory>Trial</TrialRelativeDirectory>
+
+        <!-- Solution properties -->
+        <AllControlsSolutionPath>$(SourcesRootDirectory)\Controls\AllControlsUniversal.sln</AllControlsSolutionPath>
+        <QSFSolutionPath>$(QSFDirectory)\QSF.sln</QSFSolutionPath>
+
+        <!-- Relative solution properties -->
+        <MapRelativeSolutionPath>Controls\Map.sln</MapRelativeSolutionPath>
+        <DataStorageRelativeSolutionPath>Data\Telerik.DataStorage.sln</DataStorageRelativeSolutionPath>
+        <GridDataStorageProviderRelativeSolutionPath>Controls\DataGrid.DataStorageProvider.sln</GridDataStorageProviderRelativeSolutionPath>
+
+        <!-- Configurations/platforms -->
+        <ReleaseConfiguration>Release</ReleaseConfiguration>
+        <ReleaseTrialConfiguration>ReleaseTrial</ReleaseTrialConfiguration>
+        <X86Platform>x86</X86Platform>
+        <X64Platform>x64</X64Platform>
+        <ArmPlatform>ARM</ArmPlatform>
+        <AnyCpuPlatform>Any CPU</AnyCpuPlatform>
+
+        <!-- Installer properties -->
+        <InstallerSolutionPath>$(SourcesRootDirectory)\Installer\Telerik.WindowsUniversal.Wix.sln</InstallerSolutionPath>
+        <InstallerBuildConfiguration>Release</InstallerBuildConfiguration>
+        <InstallerBuildPlatform>x86</InstallerBuildPlatform>
+        <MsiBaseName>Telerik.WindowsUniversal.Wix</MsiBaseName>
+
+        <!-- Target directories -->
+        <BinariesTargetDirectory>Binaries</BinariesTargetDirectory>
+        <QSFTargetDirectory>QSF</QSFTargetDirectory>
+        <SDKsTargetDirectory>SDKs</SDKsTargetDirectory>
+        <LicenseAgreementTargetDirectory>LicenseAgreements</LicenseAgreementTargetDirectory>
+        <FrameworkWin81TargetDirectory>Windows 8.1</FrameworkWin81TargetDirectory>
+        <FrameworkWinPhone81TargetDirectory>Windows Phone 8.1</FrameworkWinPhone81TargetDirectory>
+
+        <!-- Project properties -->
+        <FrameworkWin81>Windows 8.1</FrameworkWin81>
+        <FrameworkWinPhone81>Windows Phone 8.1</FrameworkWinPhone81>
+        <SdkWindows81>Windows 8.1</SdkWindows81>
+        <SdkWindowsPhone81>Windows Phone 8.1</SdkWindowsPhone81>
+        <SdkDirectoryName>SDKs</SdkDirectoryName>
+        <QSFDirectoryName>QSF</QSFDirectoryName>
+        <BinariesDirectory Condition=" '$(BinariesDirectory)' == '' ">..\..\..\Binaries</BinariesDirectory>
+
+        <!-- Packaging properties -->
+        <CurrentMonthString>$([MSBuild]::Add($([System.DateTime]::Now.Month), 0))</CurrentMonthString>
+        <CurrentMonthString Condition="$([System.DateTime]::Now.Year) &gt; $(VersionYear)">$([MSBuild]::Add($([System.DateTime]::Now.Month), 12))</CurrentMonthString>
+        <CurrentDayString>$([System.DateTime]::Now.ToString('dd'))</CurrentDayString>
+        <CurrentDateString>$(CurrentMonthString)$(CurrentDayString)</CurrentDateString>
+        <FrameworkVersion>45</FrameworkVersion>
+        <WindowsSdkVersion>$(VersionYear).$(VersionReleaseNumber).$(CurrentDateString).$(FrameworkVersion)</WindowsSdkVersion>
+        <WindowsPhoneSdkVersion>$(VersionYear).$(VersionReleaseNumber).$(CurrentDateString).$(FrameworkVersion)</WindowsPhoneSdkVersion>
+        <VersionString>$(VersionYear).$(VersionReleaseNumber).$(CurrentDateString).$(FrameworkVersion)</VersionString>
+
+        <!-- Tools -->
+        <NugetToolPath>"$(MSBuildProjectDirectory)\Tools\NuGet.exe"</NugetToolPath>
+        <DistributionValidatorTool>"$(MSBuildProjectDirectory)\Tools\DistributionValidator\DistributionValidator.exe"</DistributionValidatorTool>
+        <WinRTTestLauncherTool>"$(MSBuildProjectDirectory)\Tools\WinRT.TestLauncher.exe"</WinRTTestLauncherTool>
+    </PropertyGroup>
+
+</Project>

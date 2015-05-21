@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="..\..\..\Build\Imports\ImportsAtStart.targets" />
+  <PropertyGroup>
+    <PlatformFolder Condition=" '$(Platform)' != 'AnyCPU' ">$(Platform)</PlatformFolder>
+    <OutputPath>bin\$(PlatformFolder)\$(Configuration)\</OutputPath>
+    <Framework>$(FrameworkWin81)</Framework>
+    <DocumentationFile Condition=" '$(Configuration)' == 'Release' OR '$(Configuration)' == 'ReleaseTrial' ">$(OutputPath)\Telerik.UI.Xaml.Primitives.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{905E0EA2-8F87-4C42-A126-426BC3E6E4BB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Telerik.UI.Xaml.Controls.Primitives</RootNamespace>
+    <AssemblyName>Telerik.UI.Xaml.Primitives</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <SynthesizeLinkMetadata>true</SynthesizeLinkMetadata>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>Primitives.Windows_TemporaryKey.pfx</PackageCertificateKeyFile>
+     
+     
+     
+     
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateLibraryLayout>true</GenerateLibraryLayout>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateLibraryLayout>true</GenerateLibraryLayout>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'ReleaseTrial|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP;TRIAL</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateLibraryLayout>true</GenerateLibraryLayout>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Pagination\PaginationButton.cs" />
+    <Compile Include="Pagination\PaginationControlDisplayMode.cs" />
+    <Compile Include="Pagination\PaginationControlNavigationMode.cs" />
+    <Compile Include="Pagination\PaginationIndexLabelControl.cs" />
+    <Compile Include="Pagination\PaginationItemIndicator.cs" />
+    <Compile Include="Pagination\PaginationListControl.cs" />
+    <Compile Include="Pagination\PaginationListControlItem.cs" />
+    <Compile Include="Pagination\RadPaginationControl.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadialMenu\Common\CoordinatesUtils.cs" />
+    <Compile Include="RadialMenu\Common\RadialLayoutSlot.cs" />
+    <Compile Include="RadialMenu\Common\RadPolarPoint.cs" />
+    <Compile Include="RadialMenu\Model\FixedSegmentLayout.cs" />
+    <Compile Include="RadialMenu\Model\Items\MenuItemCollection.cs" />
+    <Compile Include="RadialMenu\Model\Items\RadialMenuItem.cs" />
+    <Compile Include="RadialMenu\Model\Items\RadialNavigateItem.cs" />
+    <Compile Include="RadialMenu\Model\Items\RadialSegment.cs" />
+    <Compile Include="RadialMenu\Model\Layout.cs" />
+    <Compile Include="RadialMenu\Model\MenuViewState.cs" />
+    <Compile Include="RadialMenu\Model\RadialMenuModel.cs" />
+    <Compile Include="RadialMenu\Model\RadialMenuModel.Selection.cs" />
+    <Compile Include="RadialMenu\Model\Rings\NavidateItemRingModel.cs" />
+    <Compile Include="RadialMenu\Model\Rings\RingModel.cs" />
+    <Compile Include="RadialMenu\Model\Rings\RingModelBase.cs" />
+    <Compile Include="RadialMenu\Services\Actions\ActionBase.cs" />
+    <Compile Include="RadialMenu\Services\Actions\ActionService.cs" />
+    <Compile Include="RadialMenu\Services\Actions\AnimatationCompleteEventArgs.cs" />
+    <Compile Include="RadialMenu\Services\Actions\AnimationAction.cs" />
+    <Compile Include="RadialMenu\Services\Actions\AnimationOperation.cs" />
+    <Compile Include="RadialMenu\Services\Actions\CompositeAction.cs" />
+    <Compile Include="RadialMenu\Services\Actions\DelegateAction.cs" />
+    <Compile Include="RadialMenu\Services\Actions\IAnimatable.cs" />
+    <Compile Include="RadialMenu\Services\CommandService.cs" />
+    <Compile Include="RadialMenu\Services\Commands\CloseMenuCommand.cs" />
+    <Compile Include="RadialMenu\Services\Commands\CommandId.cs" />
+    <Compile Include="RadialMenu\Services\Commands\NavigateCommand.cs" />
+    <Compile Include="RadialMenu\Services\Commands\NavigateContext.cs" />
+    <Compile Include="RadialMenu\Services\Commands\OpenMenuCommand.cs" />
+    <Compile Include="RadialMenu\Services\Commands\RadialMenuCommand.cs" />
+    <Compile Include="RadialMenu\Services\Commands\RadialMenuItemContext.cs" />
+    <Compile Include="RadialMenu\Services\Commands\RadialMenuUserCommand.cs" />
+    <Compile Include="RadialMenu\Services\HitTestService.cs" />
+    <Compile Include="RadialMenu\Services\IHitTestArea.cs" />
+    <Compile Include="RadialMenu\Services\VisualStateService.cs" />
+    <Compile Include="RadialMenu\View\Controls\DecorationItemButton.cs" />
+    <Compile Include="RadialMenu\View\Controls\NavigationItemButton.cs" />
+    <Compile Include="RadialMenu\View\Controls\RadialMenuButton.cs" />
+    <Compile Include="RadialMenu\View\Controls\RadialMenuItemControl.cs" />
+    <Compile Include="RadialMenu\View\Controls\RadialPanel.cs" />
+    <Compile Include="RadialMenu\View\Controls\Tooltip\MenuToolTip.cs" />
+    <Compile Include="RadialMenu\View\Layers\Animations.cs" />
+    <Compile Include="RadialMenu\View\Layers\BackgroundSectorItemLayer.cs" />
+    <Compile Include="RadialMenu\View\Layers\ElementLayerBase.cs" />
+    <Compile Include="RadialMenu\View\Layers\ItemVisualStateLayer.cs" />
+    <Compile Include="RadialMenu\View\Layers\LayerBase.cs" />
+    <Compile Include="RadialMenu\View\Layers\MenuItemLayer.cs" />
+    <Compile Include="RadialMenu\View\Layers\NavigateItemLayer.cs" />
+    <Compile Include="RadialMenu\View\Layers\NavigationLayerAnimations.cs" />
+    <Compile Include="RadialMenu\View\Layers\ZIndices.cs" />
+    <Compile Include="RadialMenu\View\MenuSelectionChangedEventArgs.cs" />
+    <Compile Include="RadialMenu\View\PopupService.cs" />
+    <Compile Include="RadialMenu\View\RadRadialContextMenu.cs" />
+    <Compile Include="RadialMenu\View\RadRadialMenu.Commands.cs" />
+    <Compile Include="RadialMenu\View\RadRadialMenu.cs" />
+    <Compile Include="RadialMenu\View\RadRadialMenu.Manipulation.cs" />
+    <Compile Include="RadialMenu\View\Triggers\RadialMenuAttachTriggers.cs" />
+    <Compile Include="RadialMenu\View\Triggers\RadialMenuTriggerBehavior.cs" />
+    <Compile Include="RangeBaseControls\RangeControlBase.cs" />
+    <Compile Include="RangeBaseControls\RangeInputBase.cs" />
+    <Compile Include="RangeBaseControls\SliderBase.cs" />
+    <Compile Include="RangeSliderPrimitive\RangeSliderPrimitive.cs" />
+    <Compile Include="RangeSliderPrimitive\RangeSliderPrimitive.Manipulations.cs" />
+    <Compile Include="RangeSliderPrimitive\RangeSliderPrimitive.Model.cs" />
+    <Compile Include="RangeSliderPrimitive\RangeSliderTrackTapMode.cs" />
+    <Compile Include="RangeSliderPrimitive\RangeTrackPrimitive.cs" />
+    <Compile Include="RangeSliderPrimitive\SelectionRange.cs" />
+    <Compile Include="ScalePrimitive\Engine\AxisLabelModel.cs" />
+    <Compile Include="ScalePrimitive\Engine\AxisModelLayoutStrategy.cs" />
+    <Compile Include="ScalePrimitive\Engine\AxisTickModel.cs" />
+    <Compile Include="ScalePrimitive\Engine\HorizontalAxisLayoutStrategy.cs" />
+    <Compile Include="ScalePrimitive\Engine\NumericalAxisModel.cs" />
+    <Compile Include="ScalePrimitive\Engine\ScaleElementPlacement.cs" />
+    <Compile Include="ScalePrimitive\Engine\ScaleLayoutMode.cs" />
+    <Compile Include="ScalePrimitive\Engine\SnapsTo.cs" />
+    <Compile Include="RangeSliderPrimitive\ThumbsPanel.cs" />
+    <Compile Include="RangeSliderPrimitive\Tooltip\RangeToolTip.cs" />
+    <Compile Include="RangeSliderPrimitive\Tooltip\ToolTipContext.cs" />
+    <Compile Include="ScalePrimitive\Engine\VerticalAxisLayoutStrategy.cs" />
+    <Compile Include="ScalePrimitive\Visualization\ScalePanel.cs" />
+    <Compile Include="ScalePrimitive\Visualization\ScalePrimitive.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RadialMenu\RadialMenu.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Core.Windows\Core.Windows.csproj">
+      <Project>{093f614c-5cd0-4164-aab7-a2ea0f84a29d}</Project>
+      <Name>Core.Windows</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="License\Resources\ToastTemplate.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Page Include="Themes\Listbox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\Resources.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>..\..\..\Build\Imports\Win8Key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <Import Project="..\Primitives.Shared\Primitives.Shared.projitems" Label="Shared" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <Import Project="..\..\..\Build\Imports\ImportsAtEnd.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
